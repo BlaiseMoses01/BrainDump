@@ -4,7 +4,6 @@
 ## 📁 Directories
 | Name                | Description                                 |
 |---------------------|---------------------------------------------|
-| [shuffling/](./shuffling) | Algorithms related to rearranging elements within a data structure   |
 
 ## 📄 Files
 | Name                       | Description                                     |

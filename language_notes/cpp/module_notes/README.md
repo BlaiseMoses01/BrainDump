@@ -4,9 +4,12 @@
 ## 📁 Directories
 | Name                | Description                                 |
 |---------------------|---------------------------------------------|
-| [shuffling/](./shuffling) | Algorithms related to rearranging elements within a data structure   |
+
 
 ## 📄 Files
 | Name                       | Description                                     |
 |----------------------------|-------------------------------------------------|
 | [README.md](./README.md)   | Lookup Table for this Directory                 |
+| [algorithm.md](./algorithm.md) | Notes on features and functions within Algorithm Module     |
+| [random.md](./random.md) | Notes on features and functions within Random Module    |
+| [general.md](./general.md) | Notes on General C++ syntax, features, etc.     |
