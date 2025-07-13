@@ -11,12 +11,12 @@ Welcome to my brain dump — a personal vault of notes, problem solving, algorit
 
 | Folder | Description |
 |--------|-------------|
-| [`readings/`](./readings) | Notes and takeaways from the technical books I'm reading |
-| [`math/`](./math) | Quantitative concepts: probability, discrete math, linear algebra, etc. |
 | [`algorithms/`](./algorithms) | Core algorithm implementations with explanations and code |
-| [`leetcode/`](./leetcode) | My LeetCode solutions with commentary, organized by category and difficulty |
+| [`aws/`](./aws) |Notes and practice related to AWS services and certification paths |
 | [`language-notes/`](./language-notes) | Reference notes and examples for various langauges I work with |
-| [`code-snippets/`](./code-snippets) | Useful reusable patterns and logic |
+| [`leetcode/`](./leetcode) | My LeetCode solutions with commentary, organized by category and difficulty |
+| [`math/`](./math) | Quantitative concepts: probability, discrete math, linear algebra, etc. |
+| [`readings/`](./readings) | Notes and takeaways from the technical books I'm reading |
 |[`PATCH_NOTES.md`](./PATCH_NOTES.md) | journal of study sessions and growth milestones |
 
 ---
