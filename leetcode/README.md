@@ -4,7 +4,7 @@
 ## 📁 Directories
 | Name                | Description                                 |
 |---------------------|---------------------------------------------|
-| [cpp/](./cpp) | Notes related to C++ features, libraries, patterns, etc. |
+| [math_problems/](./math_problems) | Leetcode Solutions/Writeups for Math-based problems |
 
 ## 📄 Files
 | Name                       | Description                                     |
