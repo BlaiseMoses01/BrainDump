@@ -38,4 +38,4 @@ Want to collaborate? Feel free to connect with me on [LinkedIn](https://www.link
 ---
 ## 🔖 License
 
-MIT — free to learn from or build upon. Just don’t plagiarize and pretend it's yours.
+MIT — free to learn from or build upon. Just don’t plagiarize or take credit for my work please!
